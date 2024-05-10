@@ -1,29 +1,87 @@
 ![logo](Assets/logo.png)
 
-**Apollo** is a custom keyboard layout for the programmable ZSA Moonlander keyboard. It uses the DVORAK layout as a base for the letters while using custom layer keys for symbols. Designed to be comfortable to type on for coding, gaming, and media creation.
+**Apollo** is a custom keyboard layout for the programmable ZSA Moonlander keyboard. It uses the DVORAK layout as a base for the letters while using custom layer keys for symbols. It's designed to be comfortable to type on for coding, gaming, and media creation.
 
-![logo](Assets/1.png)
+![main layout](Assets/1.png)
 
-This is the default configuration.
+![letter layout](Assets/g11.png)
 
-![logo](Assets/h2.png)
+The letters are arranged as they appear in the original DVORAK layout.
 
-![logo](Assets/2.png)
+![number keys](Assets/g12.png)
 
-The shift key behaves as expected
+The number row is setup so that the [most frequently appearing numbers](https://en.wikipedia.org/wiki/Benford%27s_law) are placed in the most comfortable positions.
 
-![logo](Assets/h3.png)
+The most common 0 and 1 use the index finger, while the less common 6 7 8 and 9 need a bit of a stretch.
 
-![logo](Assets/3.png)
+The numbers are grouped into even and odd, almost identically to the original [programmer's Dvorak layout](https://www.kaufmann.no/roland/dvorak/).
 
-![logo](Assets/h4.png)
+![pinky keys](Assets/g13.png)
 
-![logo](Assets/4.png)
+Backspace, delete, and escape are all located on the left pinky. This frees up the right hand to operate the mouse, and is useful for photo/video editing where these keys are pressed repeatedly.
 
-![logo](Assets/h5.png)
+![home row mods](Assets/g14.png)
 
-![logo](Assets/5.png)
+This layout uses [home row mods](https://precondition.github.io/home-row-mods). Holding down the main row letters `a`, `o`, `e`, `u` and `h`, `t`, `n`, `s` will send CTRL, ALT, SHIFT, or META.
 
-![logo](Assets/h6.png)
+Note that the shift key in this position isn't meant to be used to create capital letters; it's there for shortcuts.
 
-![logo](Assets/6.png)
+![omega key](Assets/g15.png)
+
+This key types an omega symbol. Useless on its own, but it's super handy when combined with text expander software like [Espanso](https://espanso.org/).
+
+In an example setup, you could perhaps type `Ωcell` and it'll paste your cellphone number automatically. The macros are customizable.
+
+![blank space](Assets/blank.png)
+
+![Shift Layer](Assets/h2.png)
+
+![shifted layout](Assets/2.png)
+
+The shift key, besides being used for capital letters, also grants access to some punctuation.
+
+![punctuation](Assets/g17.png)
+
+`_`, `!`, `?`, and `:` are found on the shift layer. This is different from standard DVORAK, but for good reason.
+
+Underscore and question mark had positions that were too far to the side to fit on the Moonlander. In addition, the `<`, `>`, and `"` keys that were originally on the shift layer are much better suited to the dedicated symbol layer.
+
+![blank space](Assets/blank.png)
+
+![Symbol Layer](Assets/h3.png)
+
+![symbol layout](Assets/3.png)
+
+The symbol layer contains all the remaining typed characters.
+
+![Shift Layer](Assets/g18.png)
+
+The position of each symbol on this layer was fine-tuned over prolonged usage. This layout places very common symbols in comfortable positions while also making sure that commonly typed programming patterns remain easy to type. The same finger is prevented from being used twice in a row as much as possible.
+
+`()`, `[]`, `<>`, and `{}` are able to be typed in a rolling motion.
+
+Having `<` and `>` on the symbol layer makes common programming patterns like `= >`, `- >` very easy.
+
+Having `"` on the symbol layer is almost necessary, as it's extremely common in programming to have to type patterns like `(" ")`, `" " + " "`, `= " ";`. If it were still on the shift layer, it would add too much layer switching during programming.
+
+![Shift Layer](Assets/g19.png)
+
+This layout uses the Canadian Multilingual keymapping. This makes it possible to type accented letters. The relevant keys are represented by empty boxes with an accent.
+
+![blank space](Assets/blank.png)
+
+![Function Layer](Assets/h4.png)
+
+![function layout](Assets/4.png)
+
+![blank space](Assets/blank.png)
+
+![Navigation Layer](Assets/h5.png)
+
+![navigation layout](Assets/5.png)
+
+![blank space](Assets/blank.png)
+
+![Shortcuts and Extras](Assets/h6.png)
+
+![extras layout](Assets/6.png)
