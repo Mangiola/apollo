@@ -72,16 +72,26 @@ The symbol layer contains all the remaining typed characters.
 
 ![Function Layer](Assets/h4.png)
 
+This layer contains function keys on the right in addition to common keyboard shortcuts on the left.
+
 ![function layout](Assets/4.png)
+
+![Shift Layer](Assets/g20.png)
+
+- The essential shortcuts like cut `(ctrl+x)`, copy `(ctrl+c)`, paste `(ctrl+v)`, undo `(ctrl+z)`, and save `(ctrl+s)` require two hands on DVORAK. Having a seperate layer for these shortcuts allows for one-handed usage like in QWERTY.
 
 ![blank space](Assets/blank.png)
 
 ![Navigation Layer](Assets/h5.png)
+
+Has the arrow keys, window controls, mouse movement, and scroll wheel keys.
 
 ![navigation layout](Assets/5.png)
 
 ![blank space](Assets/blank.png)
 
 ![Shortcuts and Extras](Assets/h6.png)
+
+The outside keys on the Moonlander are the least ergonomic to use. This makes them better off as occasional shortcuts rather than frequently used keys.
 
 ![extras layout](Assets/6.png)
