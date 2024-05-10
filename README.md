@@ -6,24 +6,24 @@
 
 This is the default configuration.
 
-![logo](Assets/Page%201.png)
+![logo](Assets/h2.png)
 
 ![logo](Assets/2.png)
 
 The shift key behaves as expected
 
-![logo](Assets/Page%202.png)
+![logo](Assets/h3.png)
 
 ![logo](Assets/3.png)
 
-![logo](Assets/Page%203.png)
+![logo](Assets/h4.png)
 
 ![logo](Assets/4.png)
 
-![logo](Assets/Page%204.png)
+![logo](Assets/h5.png)
 
 ![logo](Assets/5.png)
 
-![logo](Assets/Page%205.png)
+![logo](Assets/h6.png)
 
 ![logo](Assets/6.png)
