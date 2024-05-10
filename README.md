@@ -11,3 +11,7 @@ This is the default configuration.
 ![logo](Assets/2.png)
 
 The shift key behaves as expected
+
+![logo](Assets/t2.png)
+
+![logo](Assets/3.png)
