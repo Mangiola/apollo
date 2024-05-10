@@ -95,3 +95,9 @@ Has the arrow keys, window controls, mouse movement, and scroll wheel keys.
 The outside keys on the Moonlander are the least ergonomic to use. This makes them better off as occasional shortcuts rather than frequently used keys.
 
 ![extras layout](Assets/6.png)
+
+TODO:
+
+- comfort map
+- gaming layers
+- third thumb layers
