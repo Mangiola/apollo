@@ -6,12 +6,12 @@
 
 This is the default configuration.
 
-## Shift Layer
+![logo](Assets/2c.png)
 
 ![logo](Assets/2.png)
 
 The shift key behaves as expected
 
-## Symbol Layer
+![logo](Assets/33.png)
 
 ![logo](Assets/3.png)
