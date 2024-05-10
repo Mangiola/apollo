@@ -12,7 +12,7 @@
 
 - The number row is setup so that the [most frequently appearing numbers](https://en.wikipedia.org/wiki/Benford%27s_law) are placed in the most comfortable positions.
 
-- uThe most common `0` and `1` use the index finger, while the less common `6` `7` `8` and `9` need a bit of a stretch.
+- The most common `0` and `1` use the index finger, while the less common `6` `7` `8` and `9` need a bit of a stretch.
 
 - The numbers are grouped into even and odd, almost identically to the original [programmer's Dvorak layout](https://www.kaufmann.no/roland/dvorak/).
 
@@ -30,15 +30,15 @@
 
 - This key types an omega symbol. Useless on its own, but it's super handy when combined with text expander software like [Espanso](https://espanso.org/).
 
-In an example setup, you could perhaps type `Ωcell` and it'll paste your cellphone number automatically. The macros are customizable.
+- In an example setup, you could perhaps type `Ωcell` and it'll paste your cellphone number automatically. The macros are customizable.
 
 ![blank space](Assets/blank.png)
 
 ![Shift Layer](Assets/h2.png)
 
-![shifted layout](Assets/2.png)
-
 The shift key, besides being used for capital letters, also grants access to some punctuation.
+
+![shifted layout](Assets/2.png)
 
 ![punctuation](Assets/g17.png)
 
@@ -50,9 +50,9 @@ The shift key, besides being used for capital letters, also grants access to som
 
 ![Symbol Layer](Assets/h3.png)
 
-![symbol layout](Assets/3.png)
-
 The symbol layer contains all the remaining typed characters.
+
+![symbol layout](Assets/3.png)
 
 ![Shift Layer](Assets/g18.png)
 
