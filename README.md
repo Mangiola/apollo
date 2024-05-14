@@ -91,8 +91,6 @@ Here's a personal mapping of how each key feels in my case.
 
 ![keyboard comfort map](Assets/comfort.png)
 
-![blank space](Assets/blank.png)
-
 ## Gaming
 
 The standard layout does not perform well for gaming because of the home row mods. Two extra layers are included solely for gaming purposes, viewable on the [online configurator](https://configure.zsa.io/moonlander/layouts/gdQQ7/latest/0).
