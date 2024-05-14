@@ -80,8 +80,3 @@ The outside keys on the Moonlander are the least ergonomic to use. This makes th
 These hotkeys are mostly personal preference and are not integral to the layout.
 
 ![extras layout](Assets/6.png)
-
-TODO:
-
-- gaming layers
-- third thumb layers
