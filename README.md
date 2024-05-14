@@ -1,6 +1,6 @@
 ![logo](Assets/logo.png)
 
-**Apollo** is a custom keyboard layout for the programmable ZSA Moonlander keyboard. It uses the DVORAK layout as a base for the letters while using custom layer keys for symbols. It's designed to be comfortable to type on for coding, gaming, and media creation.
+**Apollo** is my custom keyboard layout for the programmable ZSA Moonlander keyboard. It uses the DVORAK layout as a base for the letters while using custom layer keys for symbols. It's designed to be comfortable to type on for coding, gaming, and media creation.
 
 Check out the layout on ZSA's [online configurator](https://configure.zsa.io/moonlander/layouts/gdQQ7/latest/0).
 
@@ -48,7 +48,6 @@ The symbol layer contains all the remaining typed characters.
     - `()`, `[]`, `<>`, and `{}` are able to be typed in a rolling motion.
     - Having `<` and `>` on the symbol layer makes common programming patterns like `= >`, `- >` very easy.
     - Having `"` on the symbol layer is almost necessary, as it's extremely common in programming to have to type patterns like `(" ")`, `" " + " "`, `= " ";`. If it were still on the shift layer, it would add too much layer switching during programming.
-
 - **International Keys**
     - This layout uses the Canadian Multilingual keymapping. This makes it possible to type accented letters. The relevant keys are represented by empty boxes with an accent.
 
@@ -71,12 +70,29 @@ Has the arrow keys, window controls, mouse movement, and scroll wheel keys.
 
 ![navigation layout](Assets/5.png)
 
+- **Taskbar Apps**
+    - The keys labelled 1 through 6 open the first six apps pinned to the taskbar.
+
 ![blank space](Assets/blank.png)
 
 ![Shortcuts and Extras](Assets/h6.png)
 
-The outside keys on the Moonlander are the least ergonomic to use. This makes them better off as occasional shortcuts rather than frequently used keys.
-
-These hotkeys are mostly personal preference and are not integral to the layout.
+The outside keys on the Moonlander are the least ergonomic to use. This makes them better off as occasional shortcuts rather than frequently used keys. These hotkeys are mostly personal preference and are not integral to the layout.
 
 ![extras layout](Assets/6.png)
+
+![blank space](Assets/blank.png)
+
+## Reasoning
+
+The use of four extra layers (the thumb keys) allows more keys to be positioned in the middle of the board, where it's most comfortable to reach. This is why the outside keys don't change between layers.
+
+Here's a personal mapping of how each key feels in my case.
+
+![keyboard comfort map](Assets/comfort.png)
+
+![blank space](Assets/blank.png)
+
+## Gaming
+
+The standard layout does not perform well for gaming because of the home row mods. Two extra layers are included solely for gaming purposes, viewable on the [online configurator](https://configure.zsa.io/moonlander/layouts/gdQQ7/latest/0).
